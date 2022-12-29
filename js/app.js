@@ -28,8 +28,8 @@ alert(`Your fullname is: ${userName} ${surname}, your age is: ${age}, admin stat
 console.log(Boolean(alert('5')));// //false - alert indefined, indefined falsy значение,
 // соответственно строка 5 преобразвовывается в значение алерт, алерт в фелси
 
-console.log(true > false);//true - true это 1, false это 0, соответсвенно 1>0 - true;
-console.log(true > 5);//false  - true это 1, соответсвенно 1>5 - false;
-console.log(true > '5');//false - true это 1, '5' string преобразованый в number, соответсвенно 1>5 - false;
-console.log(true > null);//true - null это 0, true это 1, соответсвенно 1>0;
+console.log(true > false);//true - true это 1, false это 0, соответственно 1>0 - true;
+console.log(true > 5);//false  - true это 1, соответственно 1>5 - false;
+console.log(true > '5');//false - true это 1, '5' string преобразованый в number, соответственно 1>5 - false;
+console.log(true > null);//true - null это 0, true это 1, соответственно 1>0;
 
